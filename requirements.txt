@@ -1,4 +1,4 @@
-PyMuPDF==1.22.5
+PyMuPDF==0.0.1.dev2
 joblib==1.4.2
 langchain==0.3.26
 langchain_community==0.3.27
@@ -13,6 +13,6 @@ pandas==2.3.1
 plotly==5.9.0
 python-dotenv==1.1.1
 streamlit==1.30.0
-tensorflow-cpu==2.19.0
+tensorflow==2.19.0
 tensorflow_intel==2.17.0
 yfinance==0.2.63
